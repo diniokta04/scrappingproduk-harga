@@ -1,0 +1,12 @@
+[
+    {
+        "id": 1,
+        "nama": "Box of Chocolate Candy",
+        "harga": "9.99"
+    },
+    {
+        "id": 2,
+        "nama": "cheese cake",
+        "harga": "6.99"
+    }
+]
